@@ -112,7 +112,7 @@ class Maze():
         result = []
         for action, (r, c) in candidates:
             if 0 <= r < self.height and 0 <= c < self.width and not self.walls[r][c]:
-                result.append((action, (r, c)))
+                result.append((action, (r, c)));
         return result
 
     def solve(self):
