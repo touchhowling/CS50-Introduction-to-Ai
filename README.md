@@ -53,5 +53,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 Keep learning and enjoy your journey through the CS50 Harvard Course on Introduction to AI! If you have any questions or need assistance, feel free to reach out.
 
-Best regards,
+Best regards,<br>
 Dev Saran Sujan
